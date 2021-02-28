@@ -10,24 +10,24 @@ npm i -g npm-install-latest
 
 ## Usage
 
-####Execute in current project to update local packages
+#### Execute in current project to update local packages
 ```bash
 npm-install-latest
 ```
 
-####Execute anywhere to update global packages
+#### Execute anywhere to update global packages
 ```bash
 npm-install-latest -g
 npm-install-latest --global
 ```
 
-####Force npm to fetch remote resources even if a local copy exists on disk
+#### Force npm to fetch remote resources even if a local copy exists on disk
 ```bash
 npm-install-latest -f
 npm-install-latest --force
 ```
 
-####Display help
+#### Display help
 ```bash
 npm-install-latest -h
 npm-install-latest --help
